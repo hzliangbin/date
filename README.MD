@@ -38,7 +38,7 @@ Date是一个基于time包装的一个日期包，通过此包可以快速创建
 
 ### 获取Date
 
-`go get -u https://github.com/noogo/ohgo`
+`go get -u github.com/noogo/date`
 
 ### 使用Date
 
