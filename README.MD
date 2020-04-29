@@ -1,7 +1,5 @@
-# 项目地址
-<a href="https://github.com/noogo/date">https://github.com/noogo/date</a>
-
 # Date
+<a href="https://github.com/noogo/date">![noogo-2020](https://img.shields.io/badge/github-noogo%2Fdate-brightgreen)</a> ![noogo-2020](https://img.shields.io/badge/noogo-2020-brightgreen)   
 
 Date是一个基于time包装的一个日期包，通过此包可以快速创建日期、获取时间戳、毫秒数及最重要的日期格式化，另外你还可以继续使用time包下的所有函数（除`time.Foramt(string)`外）你可以通过以下方法快速创建一个Date对象：
 - ` Now()`
@@ -183,3 +181,19 @@ fmt.Println(ret)
 |ZZZ|+0800|
 |ZZZZ|+0800|
 |ZZZZZ|+0800|
+
+# License
+
+MIT License
+
+Copyright (c) ![noogo-2020](https://img.shields.io/badge/noogo-2020-orange)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
